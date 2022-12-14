@@ -101,7 +101,7 @@
 1	w	_	CCONJ	_	_	2	discourse	_	AlignBegin=15562|AlignEnd=15810|AR_script= و|Gloss=et
 2	men	_	ADP	_	_	0	root	_	AlignBegin=15810|AlignEnd=16059|AR_script= من|Gloss=depuis
 3	waqt-	_	NOUN	_	Gender=Masc|Number=Plur	2	comp:obj	_	AlignBegin=16059|AlignEnd=16183|AR_script= وقت-|Gloss=temps
-4	-eš	_	PART	_	PronType=Int	3	aff:???	_	AlignBegin=16183|AlignEnd=16307|AR_script= -اش|Gloss=quel
+4	-eš	_	PART	_	PronType=Int	3	aff	_	AlignBegin=16183|AlignEnd=16307|AR_script= -اش|Gloss=quel
 5	t-	_	PRON	_	_	6	aff:subj	_	AlignBegin=16307|AlignEnd=16431|AR_script= ت-|Gloss=tu
 6	-skn	_	VERB	_	_	2	comp:obj	_	AlignBegin=16431|AlignEnd=16556|AR_script= -سكن|Gloss=habites
 7	fi	_	ADP	_	_	6	comp:obl	_	AlignBegin=16556|AlignEnd=16804|AR_script= في|Gloss=à
@@ -191,7 +191,7 @@
 12	-ԑml-	_	VERB	_	_	9	comp:obj	_	AlignBegin=30013|AlignEnd=30156|AR_script= -عمل-|Gloss=fais
 13	-ou	_	PRON	_	_	12	aff:obj	_	AlignBegin=30156|AlignEnd=30299|AR_script= -و|Gloss=nous
 14	comparaison	_	NOUN	_	_	12	comp:obj	_	AlignBegin=30299|AlignEnd=30728|AR_script= comparaison
-15	xir	_	NOUN	_	_	4	conj:coord@x	_	AlignBegin=30728|AlignEnd=31157|AR_script= خير|Gloss=mieux
+15	xir	_	NOUN	_	_	4	conj:coord	_	AlignBegin=30728|AlignEnd=31157|AR_script= خير|Gloss=mieux|check=rel
 16	barša	_	ADV	_	_	15	mod	_	AlignBegin=31157|AlignEnd=31586|AR_script= برشا|Gloss=beaucoup
 17	men	_	ADP	_	_	15	comp:obj	_	AlignBegin=31586|AlignEnd=32015|AR_script= من|Gloss=que
 18	montagis	_	PROPN	_	_	17	comp:obl	_	AlignBegin=32015|AlignEnd=32443|AR_script= Montargis
@@ -282,13 +282,13 @@
 8	ya	_	PART	_	_	9	discourse	_	AlignBegin=43565|AlignEnd=43867|AR_script= يا|Gloss=ya
 9	'imma	_	CCONJ	_	_	13	cc	_	AlignBegin=43867|AlignEnd=44169|AR_script= إما|Gloss=soit
 10	šway-	_	NOUN	_	_	13	mod	_	AlignBegin=44169|AlignEnd=44320|AR_script= شوي-|Gloss=peu
-11	-a	-at	PART	_	Gender=Fem|Number=Plur	10	???	_	AlignBegin=44320|AlignEnd=44472|AR_script= -ة
+11	-a	-at	PART	_	Gender=Fem|Number=Plur	10	aff	_	AlignBegin=44320|AlignEnd=44472|AR_script= -ة
 12	la	_	DET	_	_	13	det	_	AlignBegin=44472|AlignEnd=44774|AR_script= la
 13	région	_	NOUN	_	_	7	comp:obl	_	AlignBegin=44774|AlignEnd=45076|AR_script= région
 14	parisienne	_	ADJ	_	_	13	mod	_	AlignBegin=45076|AlignEnd=45378|AR_script= parisienne
 15	parce	_	SCONJ	_	_	13	mod	_	AlignBegin=45378|AlignEnd=45680|AR_script= parce
 16	que	_	SCONJ	_	_	15	unk@fixed	_	AlignBegin=45680|AlignEnd=45982|AR_script= que
-17	xater	_	SCONJ	_	_	15	conj:redup@sémantique	_	AlignBegin=45982|AlignEnd=46284|AR_script= خاطر|Gloss=parce que
+17	xater	_	SCONJ	_	_	15	conj:redup	_	AlignBegin=45982|AlignEnd=46284|AR_script= خاطر|Gloss=parce que|check=rel
 18	ԑand-	_	VERB	_	_	17	comp:obj	_	AlignBegin=46284|AlignEnd=46435|AR_script= عند-|Gloss=ai
 19	-i	_	PRON	_	_	18	aff:subj	_	AlignBegin=46435|AlignEnd=46586|AR_script= -ي|Gloss=je
 20	la	_	DET	_	_	21	det	_	AlignBegin=46586|AlignEnd=46888|AR_script= la
@@ -335,7 +335,7 @@
 4	-qrob	_	VERB	_	_	0	root	_	AlignBegin=52263|AlignEnd=52438|AR_script= -قرب|Gloss=rapproche
 5	euh	_	INTJ	_	_	8	discourse	_	AlignBegin=52438|AlignEnd=52787|AR_script= euh
 6	šway-	_	NOUN	_	Gender=Fem|Number=Plur	8	mod	_	AlignBegin=52787|AlignEnd=52961|AR_script= شوي-|Gloss=peu
-7	-at	_	PART	_	_	6	???	_	AlignBegin=52961|AlignEnd=53136|AR_script= -ة
+7	-at	_	PART	_	_	6	aff	_	AlignBegin=52961|AlignEnd=53136|AR_script= -ة
 8	li	_	ADP	_	_	4	comp:obl	_	AlignBegin=53136|AlignEnd=53485|AR_script= لي|Gloss=à
 9	el-	_	DET	_	_	10	det	_	AlignBegin=53485|AlignEnd=53660|AR_script= ال-|Gloss=le
 10	-sud	_	NOUN	_	_	8	comp:obj	_	AlignBegin=53660|AlignEnd=53835|AR_script= -sud
@@ -374,7 +374,7 @@
 8	moins	_	ADV	_	_	6	comp:obj	_	AlignBegin=57991|AlignEnd=58362|AR_script= moins
 9	te-	_	PRON	_	_	11	aff:subj	_	AlignBegin=58362|AlignEnd=58486|AR_script= ت-|Gloss=tu
 10	-sta-	_	PART	_	_	5	comp:obj	_	AlignBegin=58486|AlignEnd=58610|AR_script= -ست-|Gloss=re
-11	-ržaԑ	_	VERB	_	_	10	???	_	AlignBegin=58610|AlignEnd=58734|AR_script= -رجع|Gloss=rappeller
+11	-ržaԑ	_	VERB	_	_	10	aff	_	AlignBegin=58610|AlignEnd=58734|AR_script= -رجع|Gloss=rappeller
 12	euh	_	INTJ	_	_	10	discourse	_	AlignBegin=58734|AlignEnd=59105|AR_script= euh
 13	haka	_	ADP	_	_	10	discourse	_	AlignBegin=59105|AlignEnd=59476|AR_script= هكا|Gloss=comme ça
 14	šams	_	NOUN	_	Gender=Fem|Number=Plur	10	comp:obj	_	AlignBegin=59476|AlignEnd=59847|AR_script= شمس|Gloss=soleil
@@ -559,7 +559,7 @@
 5	w	_	CCONJ	_	_	8	discourse	_	AlignBegin=85865|AlignEnd=86134|AR_script= و|Gloss=et
 6	euh	_	INTJ	_	_	8	discourse	_	AlignBegin=86134|AlignEnd=86403|AR_script= euh
 7	j'	_	PRON	_	_	8	subj	_	AlignBegin=86403|AlignEnd=86672|AR_script= j
-8	ai	_	AUX	_	_	3	conj:dicto@sémantique	_	AlignBegin=86672|AlignEnd=86941|AR_script= ai
+8	ai	_	AUX	_	_	3	conj:dicto	_	AlignBegin=86672|AlignEnd=86941|AR_script= ai|check=rel
 9	voyagé	_	VERB	_	_	8	comp:aux	_	AlignBegin=86941|AlignEnd=87210|AR_script= voyagé
 10	w	_	CCONJ	_	_	12	cc	_	AlignBegin=87210|AlignEnd=87479|AR_script= و|Gloss=et
 11	kol	_	ADJ	_	_	12	mod	_	AlignBegin=87479|AlignEnd=87748|AR_script= كل|Gloss=toute
@@ -573,7 +573,7 @@
 19	heureuse	_	ADJ	_	_	15	comp:pred	_	AlignBegin=89093|AlignEnd=89362|AR_script= heureuse
 20	et	_	CCONJ	_	_	22	cc	_	AlignBegin=89362|AlignEnd=89631|AR_script= et
 21	tout	_	ADV	_	_	22	mod	_	AlignBegin=89631|AlignEnd=89900|AR_script= tout
-22	ça	_	PRON	_	_	19	conj:coord@sémantique	_	AlignBegin=89900|AlignEnd=90169|AR_script= ça
+22	ça	_	PRON	_	_	19	conj:coord	_	AlignBegin=89900|AlignEnd=90169|AR_script= ça|check=rel
 
 # sent_id = ENT_ATBB_1014_39
 # speaker = spk2
@@ -868,7 +868,7 @@
 13	mtaԑ	_	ADP	_	_	12	comp:obj	_	AlignBegin=138727|AlignEnd=139211|AR_script= متاع
 14	diplôme	_	NOUN	_	_	13	comp:obj	_	AlignBegin=139211|AlignEnd=139695|AR_script= diplôme
 15	mteԑ-	_	ADP	_	_	14	comp:obj	_	AlignBegin=139695|AlignEnd=139937|AR_script= متاع-
-16	-i	_	DET	_	_	15	???	_	AlignBegin=139937|AlignEnd=140179|AR_script= -ي
+16	-i	_	DET	_	_	15	aff	_	AlignBegin=139937|AlignEnd=140179|AR_script= -ي
 
 # sent_id = ENT_ATBB_1014_49
 # speaker = spk2
@@ -959,7 +959,7 @@
 # phonetic_text = [=!rire /instantaneous/N] donc tawa šnouwa texdem bi el-đabbet ?
 1	donc	_	ADV	_	_	4	discourse	_	AlignBegin=158014|AlignEnd=158273|AR_script= donc
 2	tawa	_	ADV	_	_	4	mod	_	AlignBegin=158273|AlignEnd=158532|AR_script= توا|Gloss=maintenant
-3	š-	_	PRON	_	PronType=Int	4	???	_	AlignBegin=158532|AlignEnd=158661|AR_script= ش-|Gloss=quoi
+3	š-	_	PRON	_	PronType=Int	4	aff	_	AlignBegin=158532|AlignEnd=158661|AR_script= ش-|Gloss=quoi
 4	-nouwa	_	X	_	_	0	root	_	AlignBegin=158661|AlignEnd=158791|AR_script= -نوا|Gloss=c'est
 5	te-	_	PRON	_	_	6	aff:subj	_	AlignBegin=158791|AlignEnd=158920|AR_script= ت-|Gloss=tu
 6	-xdem	_	VERB	_	_	4	comp:obj	_	AlignBegin=158920|AlignEnd=159050|AR_script= -خدم|Gloss=travailles
@@ -1002,7 +1002,7 @@
 7	kbir-	_	ADJ	_	_	6	mod	_	AlignBegin=165209|AlignEnd=165426|AR_script= كبير-
 8	-a	_	PART	_	Gender=Fem|Number=Plur	7	aff:det	_	AlignBegin=165426|AlignEnd=165643|AR_script= -ة
 9	barša	_	ADV	_	_	10	mod	_	AlignBegin=165643|AlignEnd=166077|AR_script= برشا
-10	maԑrouf-	_	ADJ	_	_	6	mod:???	_	AlignBegin=166077|AlignEnd=166294|AR_script= معروف-
+10	maԑrouf-	_	ADJ	_	_	6	mod	_	AlignBegin=166077|AlignEnd=166294|AR_script= معروف-
 11	-a	_	PART	_	Gender=Fem|Number=Plur	10	aff:det	_	AlignBegin=166294|AlignEnd=166511|AR_script= -ة
 12	ne-	_	PRON	_	_	13	aff:subj	_	AlignBegin=166511|AlignEnd=166742|AR_script= ن-
 13	-xdm-	_	VERB	_	_	4	conj:dicto	_	AlignBegin=166742|AlignEnd=166973|AR_script= -خدم-
@@ -1019,7 +1019,7 @@
 # phonetic_text = behi w šniya 'akŧar ḥaža teԐžbek fi el-xedma mteԐek ?
 1	behi	_	INTJ	_	_	4	discourse	_	AlignBegin=169983|AlignEnd=170223|AR_script= باهي|Gloss=beau
 2	w	_	CCONJ	_	_	4	cc	_	AlignBegin=170223|AlignEnd=170463|AR_script= و|Gloss=et
-3	š-	_	PRON	_	PronType=Int	4	???	_	AlignBegin=170463|AlignEnd=170583|AR_script= ش-|Gloss=quoi
+3	š-	_	PRON	_	PronType=Int	4	aff	_	AlignBegin=170463|AlignEnd=170583|AR_script= ش-|Gloss=quoi
 4	-niya	_	X	_	_	0	root	_	AlignBegin=170583|AlignEnd=170703|AR_script= -ني|Gloss=c'est
 5	a-	_	PART	_	Degree=Sup	6	aff:der	_	AlignBegin=170703|AlignEnd=170823|AR_script= أ-|Gloss=plus
 6	-kŧar	_	ADJ	_	_	7	mod	_	AlignBegin=170823|AlignEnd=170943|AR_script= -كثر|Gloss=beaucoup
@@ -1131,7 +1131,7 @@
 3	xedm-	_	NOUN	_	_	2	comp:obj	_	AlignBegin=185358|AlignEnd=185850|AR_script= خدم-|Gloss=travaille
 4	-a	_	PART	_	Gender=Fem|Number=Plur	3	det	_	AlignBegin=185850|AlignEnd=186342|AR_script= -ة
 5	i-	_	PRON	_	_	6	aff:subj	_	AlignBegin=186342|AlignEnd=186834|AR_script= ي-|Gloss=il
-6	-koun	_	VERB	_	_	3	mod:relcl@x	_	AlignBegin=186834|AlignEnd=187326|AR_script= -كون|Gloss=soit
+6	-koun	_	VERB	_	_	3	mod@relcl	_	AlignBegin=186834|AlignEnd=187326|AR_script= -كون|Gloss=soit|check=rel
 7	fi-	_	ADP	_	_	6	comp:obl	_	AlignBegin=187326|AlignEnd=187818|AR_script= في-|Gloss=dans
 8	-ha	_	PRON	_	_	7	comp:obj	_	AlignBegin=187818|AlignEnd=188310|AR_script= -ها|Gloss=elle
 9	contact	_	NOUN	_	_	7	comp:obj	_	AlignBegin=188310|AlignEnd=189294|AR_script= contact
@@ -1195,7 +1195,7 @@
 16	xedm-	_	NOUN	_	_	14	comp:obj	_	AlignBegin=200123|AlignEnd=200323|AR_script= خدم-
 17	-a	_	PART	_	Gender=Fem|Number=Plur	16	aff:det	_	AlignBegin=200323|AlignEnd=200524|AR_script= -ة
 18	insen-	_	NOUN	_	_	16	comp:pred	_	AlignBegin=200524|AlignEnd=200657|AR_script= انسان-
-19	-iy-	_	PART	_	_	18	???	_	AlignBegin=200657|AlignEnd=200791|AR_script= -ي-
+19	-iy-	_	PART	_	_	18	aff	_	AlignBegin=200657|AlignEnd=200791|AR_script= -ي-
 20	-a	_	PART	_	Gender=Fem|Number=Plur	18	aff:det	_	AlignBegin=200791|AlignEnd=200925|AR_script= -ة
 21	barša	_	ADJ	_	_	18	mod	_	AlignBegin=200925|AlignEnd=201327|AR_script= برشا
 
@@ -1333,7 +1333,7 @@
 1	behi	_	INTJ	_	_	3	discourse	_	AlignBegin=226838|AlignEnd=227243|AR_script= باهي|Gloss=beau
 2	inti	_	PRON	_	_	3	subj	_	AlignBegin=227243|AlignEnd=227648|AR_script= إنت|Gloss=tu
 3	qot-	_	VERB	_	_	0	root	_	AlignBegin=227648|AlignEnd=227783|AR_script= قت-|Gloss=dire
-4	-l-	_	ADP	_	_	3	aff:???	_	AlignBegin=227783|AlignEnd=227918|AR_script= -ل-|Gloss=à
+4	-l-	_	ADP	_	_	3	aff	_	AlignBegin=227783|AlignEnd=227918|AR_script= -ل-|Gloss=à
 5	-i	_	PRON	_	_	3	aff:obj	_	AlignBegin=227918|AlignEnd=228054|AR_script= -ي|Gloss=moi
 6	žeb-	_	VERB	_	_	3	comp:obj	_	AlignBegin=228054|AlignEnd=228256|AR_script= جاب-|Gloss=ramena
 7	-ek	_	PRON	_	_	6	aff:obj	_	AlignBegin=228256|AlignEnd=228459|AR_script= -ك|Gloss=toi
@@ -1396,7 +1396,7 @@
 # phonetic_text = taḥkiw mԐahom ken bi el-tounsi ?
 1	ta-	_	PRON	_	_	2	aff:subj	_	AlignBegin=235088|AlignEnd=235196|AR_script= ت-
 2	-ḥk-	_	VERB	_	_	0	root	_	AlignBegin=235196|AlignEnd=235304|AR_script= -حك-
-3	-iw	_	PRON	_	_	0	???	_	AlignBegin=235304|AlignEnd=235412|AR_script= -و
+3	-iw	_	PRON	_	_	0	aff	_	AlignBegin=235304|AlignEnd=235412|AR_script= -و
 4	mԑa-	_	ADP	_	_	2	comp:obj	_	AlignBegin=235412|AlignEnd=235574|AR_script= معا-
 5	-hom	_	PRON	_	_	4	comp:obj	_	AlignBegin=235574|AlignEnd=235736|AR_script= -هم
 6	ken	_	VERB	_	_	2	mod	_	AlignBegin=235736|AlignEnd=236060|AR_script= كان
@@ -1416,7 +1416,7 @@
 3	-i	_	PART	_	_	2	aff:der	_	AlignBegin=237140|AlignEnd=237284|AR_script= -ي|Gloss=ien
 4	na-	_	PRON	_	_	5	aff:subj	_	AlignBegin=237284|AlignEnd=237380|AR_script= ن-|Gloss=nous
 5	-ḥk-	_	VERB	_	_	0	root	_	AlignBegin=237380|AlignEnd=237476|AR_script= -حك-|Gloss=parlons
-6	-iw	_	PRON	_	_	0	???	_	AlignBegin=237476|AlignEnd=237572|AR_script= -يو|Gloss=nous
+6	-iw	_	PRON	_	_	0	aff	_	AlignBegin=237476|AlignEnd=237572|AR_script= -يو|Gloss=nous
 7	ԑarb-	_	NOUN	_	Gender=Masc|Number=Plur	5	comp:obj	_	AlignBegin=237572|AlignEnd=237716|AR_script= عرب-|Gloss=arabe
 8	-i	_	PART	_	_	7	aff:der	_	AlignBegin=237716|AlignEnd=237860|AR_script= -ي|Gloss=(ien) la langue
 9	fi	_	ADP	_	_	5	mod	_	AlignBegin=237860|AlignEnd=238147|AR_script= في|Gloss=à
@@ -1468,7 +1468,7 @@
 # text = waqt- -eš ta- -ḥk- -iw bi- -el- -français ?
 # phonetic_text = waqteš taḥkiw bi el-français [=!rire /instantaneous/N] ?
 1	waqt-	_	NOUN	_	Gender=Masc|Number=Plur	0	root	_	AlignBegin=243190|AlignEnd=243434|AR_script= وقت-
-2	-eš	_	PRON	_	PronType=Int	1	???	_	AlignBegin=243434|AlignEnd=243678|AR_script= -اش
+2	-eš	_	PRON	_	PronType=Int	1	aff	_	AlignBegin=243434|AlignEnd=243678|AR_script= -اش
 3	ta-	_	PRON	_	_	4	aff:subj	_	AlignBegin=243678|AlignEnd=243841|AR_script= ت-
 4	-ḥk-	_	VERB	_	_	1	comp:obj	_	AlignBegin=243841|AlignEnd=244004|AR_script= -حكي-
 5	-ou	_	PRON	_	_	4	aff:obl	_	AlignBegin=244004|AlignEnd=244167|AR_script= -و
@@ -1754,7 +1754,7 @@
 13	-i-	_	PART	_	_	12	aff:der	_	AlignBegin=292923|AlignEnd=292990|AR_script= -ي-
 14	-ya	_	PART	_	Gender=Fem|Number=Plur	13	aff:der	_	AlignBegin=292990|AlignEnd=293057|AR_script= -ة
 15	hiya	_	PRON	_	_	16	subj	_	AlignBegin=293057|AlignEnd=293326|AR_script= هي
-16	illi	_	PRON	_	PronType=Rel	9	mod:relcl	_	AlignBegin=293326|AlignEnd=293594|AR_script= إللي
+16	illi	_	PRON	_	PronType=Rel	9	mod@relcl	_	AlignBegin=293326|AlignEnd=293594|AR_script= إللي
 17	taԑ#	_	X	_	_	16	conj:dicto	_	 FalseStart=Yes|AlignBegin=293594|AlignEnd=293863|AR_script= تاع؛
 
 # sent_id = ENT_ATBB_1014_84
@@ -1785,7 +1785,7 @@
 21	-el-	_	DET	_	_	22	aff:det	_	AlignBegin=297302|AlignEnd=297386|AR_script= -ال-
 22	-sour-	_	NOUN	_	_	20	comp:obj	_	AlignBegin=297386|AlignEnd=297470|AR_script= -سور-
 23	-i	_	PART	_	_	22	aff:der	_	AlignBegin=297470|AlignEnd=297554|AR_script= -ي
-24	bi-	_	ADP	_	_	16	conj:dicto@sémantique	_	AlignBegin=297554|AlignEnd=297665|AR_script= ب-
+24	bi-	_	ADP	_	_	16	conj:dicto	_	AlignBegin=297554|AlignEnd=297665|AR_script= ب-|check=rel
 25	-el-	_	DET	_	_	26	aff:det	_	AlignBegin=297665|AlignEnd=297777|AR_script= -ال-
 26	-français	_	NOUN	_	_	24	comp:obj	_	AlignBegin=297777|AlignEnd=297889|AR_script= -français
 27	ama	_	CCONJ	_	_	33	cc	_	AlignBegin=297889|AlignEnd=298225|AR_script= أما
