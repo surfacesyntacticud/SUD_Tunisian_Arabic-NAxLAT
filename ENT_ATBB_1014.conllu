@@ -1045,7 +1045,7 @@
 2	el-	_	DET	_	_	3	det	_	AlignBegin=172815|AlignEnd=172958|AR_script= ال-
 3	-xedm-	_	NOUN	_	_	1	comp:obj	_	AlignBegin=172958|AlignEnd=173101|AR_script= -خدم-
 4	-a	_	PART	_	Gender=Fem|Number=Plur	3	aff:det	_	AlignBegin=173101|AlignEnd=173245|AR_script= -ة
-5	hia	_	PRON	_	_	3	comp:obl@x	_	AlignBegin=173245|AlignEnd=173676|AR_script= هي
+5	hia	_	PRON	_	_	3	comp:obl	_	AlignBegin=173245|AlignEnd=173676|AR_script= هي
 6	l'	_	DET	_	_	7	det	_	AlignBegin=173676|AlignEnd=174106|AR_script= l
 7	intégration	_	NOUN	_	_	5	comp:obj	_	AlignBegin=174106|AlignEnd=174537|AR_script= intégration
 
